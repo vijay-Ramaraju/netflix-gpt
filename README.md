@@ -1,10 +1,12 @@
 # Netflix GPT
 - Created React app
 - Configured Tailwind CSS 
+- Header
+- Login Form
 
 
 # plaining 
-
+    # Routing 
     # Developing Login page ** step 1
         - SignIn / SignUp
     # Home Page
